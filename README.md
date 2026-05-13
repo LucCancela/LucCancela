@@ -18,4 +18,4 @@ Desenvolvedor de Software Júnior focado em soluções escaláveis e sistemas cr
 
 ### 📫 Como me encontrar
 - **LinkedIn:** [linkedin.com/in/lucas-s-cancela/](https://www.linkedin.com/in/lucas-s-cancela/)
-- **Email:** cancelalucas@email.com
+- **Email:** cancelalucas@outlook.com
