@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Lucas Cancela! 👋
 
-<!--
-**LucCancela/LucCancela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de Software Júnior focado em soluções escaláveis e sistemas críticos. Atualmente, trabalho na **Semantix** com foco em ecossistemas .NET e Java.
 
-Here are some ideas to get you started:
+### 🛠 Tecnologias e Ferramentas
+- **Linguagens:** C#, Java, Python, SQL (Oracle/PostgreSQL), JavaScript.
+- **Frameworks:** .NET Core, Spring Boot, React, Node.js.
+- **Cloud & DevOps:** Azure, AWS, Docker, Kubernetes, Terraform.
+- **Mensageria:** RabbitMQ.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projetos em Destaque
+- **Vitalis:** Sistema de gestão Full Stack (Spring/React) com mensageria assíncrona e Cloud Azure.
+- **Zero One CRM:** CRM com integração de IA (Google Gemini) para análise de dados de vendas.
+
+### 📊 Estatísticas do GitHub
+![Estatísticas do Lucas](https://github-readme-stats.vercel.app/api?username=LucCancela&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucCancela&layout=compact&theme=dark)
+
+### 📫 Como me encontrar
+- **LinkedIn:** [linkedin.com/in/lucas-s-cancela/](https://www.linkedin.com/in/lucas-s-cancela/)
+- **Email:** cancelalucas@email.com
