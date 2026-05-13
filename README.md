@@ -13,8 +13,12 @@ Desenvolvedor de Software Júnior focado em soluções escaláveis e sistemas cr
 - **Zero One CRM:** CRM com integração de IA (Google Gemini) para análise de dados de vendas.
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do Lucas](https://github-readme-stats.vercel.app/api?username=LucCancela&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucCancela&layout=compact&theme=dark)
+<a href="https://github.com/LucCancela">
+  <img height=200 align="center" src="./profile/stats.svg" />
+</a>
+<a href="https://github.com/LucCancela">
+  <img height=200 align="center" src="./profile/langs.svg" />
+</a>
 
 ### 📫 Como me encontrar
 - **LinkedIn:** [linkedin.com/in/lucas-s-cancela/](https://www.linkedin.com/in/lucas-s-cancela/)
